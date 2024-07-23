@@ -1,5 +1,5 @@
 getgenv().rebhook = "https://discord.com/api/webhooks/1265126728553070656/wUx4JB9QXFbNf2gsUADrex93-nUwypDbjjU_Eq2WMskRNND-IrdVvV3j4kdPeRXHh2ol"
-getgenv().questlist = "link "
+getgenv().questlist = "https://raw.githubusercontent.com/loclai12/ScriptDragonblox/main/quest "
 getgenv().stack = true  
 getgenv().tqstate = true 
 getgenv().rebgrind = true
